@@ -1,7 +1,7 @@
 LINE COMMANDS
 =============
 
-
+<PRI>
 An       Add n new lines below this line; default=1; same as I command
 nA       Add n new lines below this line; default=1; same as I command
 Cn       Copy n lines; default=1; use F or P for destination; * means rest
@@ -41,3 +41,4 @@ c<<      Shift left by c columns on block of lines; default=1          [SM]
 >c       Shift right by c columns on this line; default=1              [SM]
 >>c      Shift right by c columns on block of lines; default=1         [SM]
 c>>      Shift right by c columns on block of lines; default=1         [SM]
+</PRI>
